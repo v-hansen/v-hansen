@@ -1,8 +1,6 @@
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=v-hansen&theme=tokyonight&hide_border=true"/>
-<br/>
 
-## Languages and tools
+## Languages & Tools
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -28,6 +26,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=v-hansen&theme=tokyonight&hide_border=true"/>
 <br/>
 <br/>
 
