@@ -1,4 +1,5 @@
-![v-hansen's Streak]()
+![](https://komarev.com/ghpvc/?username=v-hansen&color=blue)
+
 <img src="[https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark](https://github-readme-streak-stats.herokuapp.com/?user=v-hansen&theme=tokyonight&hide_border=true)"/>
 <br/>
 
@@ -28,4 +29,3 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br/>
-![](https://komarev.com/ghpvc/?username=v-hansen&color=blue)
