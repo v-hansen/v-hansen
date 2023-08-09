@@ -1,6 +1,5 @@
-![](https://komarev.com/ghpvc/?username=v-hansen&color=blue)
+![v-hansen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=v-hansen&theme=tokyonight&hide_border=true)
 
-<br/>
 <br/>
 
 ## Code
@@ -29,3 +28,4 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br/>
+![](https://komarev.com/ghpvc/?username=v-hansen&color=blue)
