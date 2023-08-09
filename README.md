@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=v-hansen&color=blue)
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=v-hansen&theme=tokyonight&hide_border=true"/>
 <br/>
@@ -18,7 +17,6 @@
 ![Swift](https://img.shields.io/badge/Swift-f4431f?style=for-the-badge&labelColor=black&logo=Swift)
 ![Kotlin](https://img.shields.io/badge/Kotlin-c318d2?style=for-the-badge&labelColor=black&logo=Kotlin)
 
-
 ## Others
 ![AWS](https://img.shields.io/badge/Aws-fd9824?style=for-the-badge&logo=aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2da0ea?style=for-the-badge&logo=docker&logoColor=white)
@@ -26,5 +24,5 @@
 ![Redis](https://img.shields.io/badge/redis-a32422?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
 <br/>
+![](https://komarev.com/ghpvc/?username=v-hansen&color=blue)
