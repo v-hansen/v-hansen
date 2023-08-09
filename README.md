@@ -1,8 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=v-hansen&color=blue)
-
-<img src="[https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark](https://github-readme-streak-stats.herokuapp.com/?user=v-hansen&theme=tokyonight&hide_border=true)"/>
 <br/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=v-hansen&theme=tokyonight&hide_border=true"/>
+<br/>
 ## Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
