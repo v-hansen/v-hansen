@@ -2,7 +2,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=v-hansen&theme=tokyonight&hide_border=true"/>
 <br/>
 
-## Code
+## Languages and tools
+
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
@@ -14,11 +15,11 @@
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-## Mobile
+### Mobile
 ![Swift](https://img.shields.io/badge/Swift-f4431f?style=for-the-badge&labelColor=black&logo=Swift)
 ![Kotlin](https://img.shields.io/badge/Kotlin-c318d2?style=for-the-badge&labelColor=black&logo=Kotlin)
 
-## Others
+### Others
 ![AWS](https://img.shields.io/badge/Aws-fd9824?style=for-the-badge&logo=aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2da0ea?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-2da0ea?style=for-the-badge&logo=kubernetes&logoColor=white)
