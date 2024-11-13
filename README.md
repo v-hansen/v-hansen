@@ -7,6 +7,7 @@
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![.Net](https://img.shields.io/badge/.net-5d2a90?style=for-the-badge&logo=.net&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ea242e?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-c318d2?style=for-the-badge&labelColor=black&logo=Kotlin)
 
 <br/>
 
