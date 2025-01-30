@@ -61,7 +61,8 @@ I enjoy **solving complex technical challenges**, designing **robust solutions f
 ---
 
 ## 📫 **Let's Connect!**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vitor-hansen)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vitor-hansen)
+- 📝 [Medium](https://medium.com/@vitorhansen)  
 
 
 🔥 _Always learning, always building!_  
