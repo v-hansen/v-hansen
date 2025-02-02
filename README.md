@@ -7,9 +7,13 @@
 I’m a Solution Architect and Software Engineer with 16+ years of experience designing scalable, high-performance systems. My expertise spans e-commerce architectures, cloud computing, integrations, and security compliance (PCI DSS).
 
 🔹 Specialties:
+
 ✅ Scalable and distributed architectures
+
 ✅ Cloud-native development (AWS, GCP)
+
 ✅ E-commerce platforms, online payments & checkout flows
+
 ✅ API design, integrations, and performance optimization
 
 I thrive on solving complex technical challenges, designing robust cloud solutions, and helping businesses scale through modern architectures and integrations.
