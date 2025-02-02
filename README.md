@@ -2,11 +2,17 @@
 
 ## 👋 Hey there, I'm Vitor Hansen!
 
-🚀 Tech Manager | Solution Architect | Full-Stack Engineer | Cloud & E-commerce Specialist  
+🚀 Tech Manager | Solution Architect | Full-Stack Engineer | Cloud & E-commerce Specialist
 
-I'm a **Solution Architect and Software Engineer** with over **16 years of experience** designing **scalable, high-performance systems**. I specialize in **e-commerce architectures, cloud computing and integrations**.  
+I’m a Solution Architect and Software Engineer with 16+ years of experience designing scalable, high-performance systems. My expertise spans e-commerce architectures, cloud computing, integrations, and security compliance (PCI DSS).
 
-I enjoy **solving complex technical challenges**, designing **robust solutions for cloud and distributed systems**, and helping businesses scale through **modern architectures and integrations**.  
+🔹 Specialties:
+✅ Scalable and distributed architectures
+✅ Cloud-native development (AWS, GCP)
+✅ E-commerce platforms, online payments & checkout flows
+✅ API design, integrations, and performance optimization
+
+I thrive on solving complex technical challenges, designing robust cloud solutions, and helping businesses scale through modern architectures and integrations.
 
 ---
 
